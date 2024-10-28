@@ -20,6 +20,9 @@ I'm an Information Science student passionate about learning cutting-edge techno
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya07389&show_icons=true&theme=radical)
 
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aditya07389.aditya07389)
+
+
 ### 📬 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-shastry-2a1a4b272/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/aditya_shastry)
@@ -47,6 +50,5 @@ I'm currently learning JavaScript and enjoying solving algorithm problems on Lee
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
 </div>
-### 📈 Visitor Count
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aditya07389.aditya07389)
+
 
