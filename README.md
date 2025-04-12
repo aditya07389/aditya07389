@@ -12,10 +12,12 @@ I'm an Information Science student passionate about learning cutting-edge techno
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ### 🚀 Projects
-- [ConsumeWise](https://github.com/keerthana2-005/consumewise) - An AI-enabled smart label reader that helps consumers understand the health impact of packaged foods and encourages better choices. 
--[Malpractice Detection](https://github.com/aditya07389/Image-Classification-on-Malpractices-in-exams) - Implemented an image classification model to detect and categorize behavioral patterns using deep learning techniques
+- [ConsumeWise](https://github.com/keerthana2-005/consumewise) - An AI-enabled smart label reader that helps consumers understand the health impact of packaged foods and encourages better choices.
+  
+- [Malpractice Detection](https://github.com/aditya07389/Image-Classification-on-Malpractices-in-exams) - Implemented an image classification model to detect and categorize behavioral patterns using deep learning techniques
 Tech Stack: VGG-16, Inception V3, TensorFlow, Python
--[Ecowatt/MiniProject](https://github.com/aditya07389/Whackiest-R.C.B) - Created an AI-powered platform to analyze environmental data and suggest optimal locations for renewable energy setups
+
+- [Ecowatt/MiniProject](https://github.com/aditya07389/Whackiest-R.C.B) - Created an AI-powered platform to analyze environmental data and suggest optimal locations for renewable energy setups
 Tech Stack:Machine Learning, Satellite Imagery, Python
 
 ### 📊 GitHub Stats
