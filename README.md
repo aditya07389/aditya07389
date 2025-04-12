@@ -11,10 +11,12 @@ I'm an Information Science student passionate about learning cutting-edge techno
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-### 🚀 Current Projects
+### 🚀 Projects
 - [ConsumeWise](https://github.com/keerthana2-005/consumewise) - An AI-enabled smart label reader that helps consumers understand the health impact of packaged foods and encourages better choices. 
-- [Resumonk](https://github.com/aditya07389/Resumonk) - A free Resume builder website that helps users create professional resumes quickly and easily . Resumonk provides customizable templates and layouts that allow users to input their personal information, work experience, education, skills, and more , enabling them to download Resume in pdf format for free !
-
+-[Malpractice Detection](https://github.com/aditya07389/Image-Classification-on-Malpractices-in-exams) - Implemented an image classification model to detect and categorize behavioral patterns using deep learning techniques
+Tech Stack: VGG-16, Inception V3, TensorFlow, Python
+-[Ecowatt/MiniProject](https://github.com/aditya07389/Whackiest-R.C.B) - Created an AI-powered platform to analyze environmental data and suggest optimal locations for renewable energy setups
+Tech Stack:Machine Learning, Satellite Imagery, Python
 
 ### 📊 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya07389&show_icons=true&theme=radical)
@@ -26,12 +28,6 @@ I'm an Information Science student passionate about learning cutting-edge techno
 ### 📬 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-shastry-2a1a4b272/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/aditya_shastry)
-
-
-### ⚡ Fun Fact
-I'm currently learning JavaScript and enjoying solving algorithm problems on LeetCode.
-
-
 
 ## My Holopin Badges
 ### Hacktoberfest 2024
