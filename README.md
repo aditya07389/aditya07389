@@ -65,12 +65,7 @@ Right now, I’m focused on improving my problem-solving and development skills 
       <p><b>Tech Stack:</b> Jenkins, Docker, SonarQube, Trivy</p>
       <a href="https://github.com/aditya07389" target="_blank">View on GitHub</a>
     </td>
-    <td width="50%">
-      <h3>Malpractice Detection System</h3>
-      <p>An image classification system built to automatically detect academic malpractice during examinations using deep learning models like VGG-16 and Inception V3.</p>
-      <p><b>Tech Stack:</b> TensorFlow, Keras, VGG-16, Inception V3</p>
-      <a href="https://github.com/aditya07389/Image-Classification-on-Malpractices-in-exams" target="_blank">View on GitHub</a>
-    </td>
+    
   </tr>
   
 </table>
