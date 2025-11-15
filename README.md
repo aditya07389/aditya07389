@@ -59,12 +59,7 @@ Right now, I’m focused on improving my problem-solving and development skills 
   </tr>
   
   <tr>
-    <td width="50%">
-      <h3>E-Commerce DevOps Pipeline</h3>
-      <p>Designed and implemented a CI/CD pipeline that automated building, testing, and deployment. This automation reduced deployment failures by 65% through integrated security and quality checks.</p>
-      <p><b>Tech Stack:</b> Jenkins, Docker, SonarQube, Trivy</p>
-      <a href="https://github.com/aditya07389" target="_blank">View on GitHub</a>
-    </td>
+    
     
   </tr>
   
